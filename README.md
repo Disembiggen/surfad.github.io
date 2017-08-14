@@ -1,2 +1,2 @@
 # surfad.github.io
-testbed for my public site, hosted usually from adamditchfield.com
+beta for my personal home page, hosted usually from [adamditchfield.com](adamditchfield.com)
